@@ -32,6 +32,7 @@ zip -e secret.zip file.txt
 - 
 ![image](https://github.com/user-attachments/assets/fae39a60-9f20-474e-b7a1-9132d5d1d88a)
 
+![435692993-333966f0-b113-4cca-b707-9f2d1c20a572](https://github.com/user-attachments/assets/7a69d91f-a92c-4b5d-86ec-99fa6682c2b1)
 
 - Generate Hash Using zip2john
  
